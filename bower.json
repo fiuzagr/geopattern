@@ -1,15 +1,12 @@
 {
   "name": "geopattern",
-  "main": "index.js",
+  "main": "js/geopattern.min.js",
   "version": "1.2.3",
   "homepage": "https://github.com/gfiuza/geopattern",
   "authors": [
     "Guilherme <gui.fiuza@gmail.com>"
   ],
   "description": "Generate beautiful SVG patterns",
-  "moduleType": [
-    "globals"
-  ],
   "keywords": [
     "geopattern",
     "css",
@@ -23,11 +20,9 @@
     "*.html",
     "*.css",
     "*.json",
-    "*.md",
     "gulpfile.js",
     "geopattern.js",
     "index.js",
-    "LICENSE",
     "node_modules",
     "bower_components",
     "test",
