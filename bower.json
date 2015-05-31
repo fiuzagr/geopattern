@@ -1,0 +1,28 @@
+{
+  "name": "geopattern",
+  "main": "js/geopattern.min.js",
+  "version": "1.2.3",
+  "homepage": "https://github.com/gfiuza/geopattern",
+  "authors": [
+    "Guilherme <gui.fiuza@gmail.com>"
+  ],
+  "description": "Generate beautiful SVG patterns",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "geopattern",
+    "css",
+    "geo",
+    "pattern",
+    "svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
