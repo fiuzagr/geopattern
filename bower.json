@@ -1,7 +1,7 @@
 {
   "name": "geopattern",
   "main": "js/geopattern.min.js",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "homepage": "https://github.com/gfiuza/geopattern",
   "authors": [
     "Guilherme <gui.fiuza@gmail.com>"
